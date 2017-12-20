@@ -1,0 +1,117 @@
+[B]Version v1.0.0[/B]
+
+- Your Tamil DESI Portal
+
+[B]Version v1.0.1[/B]
+
+- Fixed server address
+
+[B]Version v1.0.2[/B]
+
+- Server address changed again, Fixed server address
+
+[B]Version v1.0.3[/B]
+
+- Server address changed again, Youtube gdata format changed
+
+[B]Version v1.0.4[/B]
+
+- Server address changed again
+
+[B]Version v1.0.5[/B]
+
+- Scraped server address from HTTP response instead of hard coding it.
+
+[B]Version v1.0.6[/B]
+
+- Fix Youtube and Dailymotion breakage.
+
+[B]Version v1.0.7[/B]
+
+- Hosting site was moved to a different server and broker the scrapper. Fixed it by parsing the Location header in response.
+
+[B]Version v1.0.8[/B]
+
+- Use urlresolver and t0mm modules to resolve URL for hosted media.
+
+[B]Version v1.0.9[/B]
+
+- Add support for comedy clips
+
+[B]Version v2.0.0[/B]
+
+- Switched source for content
+- More menu options to choose content from
+- Switched comedy content to tubetamil
+- Improved handling of youtube/dailymotion videos
+- Saved an extra menu click when content is hosted in only one server
+
+[B]Version v2.0.1[/B]
+
+- Cache menu options to improve speed
+- Throw an error message to user when youtube playlist does not exist
+
+[B]Version v2.0.2[/B]
+
+- Fix dailymotion videos, use plugin instead of urlresolver
+
+[B]Version v2.0.3[/B]
+
+- Parse pages that display a clickable image to reach the video
+
+[B]Version v2.0.4[/B]
+
+- Add Live TV with over 40 tamil channels
+
+[B]Version v2.0.5[/B]
+
+- Add Radio channels
+
+[B]Version v2.0.6[/B]
+
+- Reorder main menu, tubetamil bug does not bring down live tv/radio
+
+[B]Version v2.0.7[/B]
+
+- Add movie section
+
+[B]Version v2.1.0[/B]
+
+- Add icons for all icons, updated fanart
+
+[B]Version v2.2.0[/B]
+
+- Switch Movie source to tamilgun
+
+[B]Version v2.2.1[/B]
+
+- Fix for Kodi breakage and switched movie source to tamilgun
+
+[B]Version v2.2.2[/B]
+
+- Fix tamilgun parsing, display resolution in source name.
+
+[B]Version v2.3.0[/B]
+
+- Added HD movies page from Tamilgun
+
+[B]Version v2.3.1[/B]
+
+- Removed dailmotion scrapper
+
+[B]Version v2.3.2[/B]
+
+- Fixed dailmotion dependency
+
+[B]Version v2.3.3[/B]
+
+- Fix user agent
+
+[B]Version v2.3.4[/B]
+
+- Fix regex for new backend code
+
+[B]Version v2.3.5[/B]
+
+- Add support for tamildbox videos
+
